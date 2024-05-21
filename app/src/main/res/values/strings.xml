@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecuMoviles</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="bienvenido_n_a_n_worldgallery">Bienvenido\n a\n WorldGallery!</string>
+    <string name="modo_oscuro">Modo Oscuro</string>
+    <string name="add_to_favorites" />
+    <string name="eliminartodo">EliminarTodo</string>
+</resources>
